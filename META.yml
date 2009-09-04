@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Pod-Perldoc-ToTextTermcap
-version:            0.00_50
+version:            0.01
 abstract:           let Perldoc render Pod as plaintext with format escapes
 author:
     - Slaven Rezic <srezic@cpan.org>
